@@ -25,8 +25,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/czcorpus/apiguard/botwatch"
-	"github.com/czcorpus/apiguard/common"
+	"github.com/czcorpus/apiguard-common/botwatch"
+	"github.com/czcorpus/apiguard-common/common"
 )
 
 type IPStats struct {
